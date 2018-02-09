@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://C:\Users\hp\ASMine\zxing-android\zxing-client\app.iml" filepath="C:\Users\hp\ASMine\zxing-android\zxing-client\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/zxing-android.iml" filepath="$PROJECT_DIR$/zxing-android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zxing-client/app.iml" filepath="$PROJECT_DIR$/zxing-client/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing-client/zxing-client.iml" filepath="$PROJECT_DIR$/zxing-client/zxing-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing-client-core/zxing-client-core.iml" filepath="$PROJECT_DIR$/zxing-client-core/zxing-client-core.iml" />
     </modules>
   </component>
 </project>
