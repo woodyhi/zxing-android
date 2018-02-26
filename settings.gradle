@@ -1,1 +1,1 @@
-include ':zxing-client', ':zxing-client-core', ':sample'
+include ':zxing-client', ':zxing-client-core-extract', ':sample'
